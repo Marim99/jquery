@@ -16,7 +16,7 @@ $(function () {
 
   $(".task2").on("click", (e) => {
     if (e.target.classList.contains("img")) {
-      $(e.target).next(".content").slideDown("slow");
+      $(e.target).next(".content").slideToggle("slow");
     }
   });
 });
