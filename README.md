@@ -1,2 +1,2 @@
 # jquery
-(link)[https://marim99.github.io/jquery/]
+[link](https://marim99.github.io/jquery/)
